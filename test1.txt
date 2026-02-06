@@ -1,3 +1,5 @@
 git用ファイル
 test1
 test2
+test3
+git diff
